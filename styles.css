@@ -1,0 +1,55 @@
+*
+{
+    color: #FBEAEB;
+}
+
+body
+{
+    background-color: #2F3C7E;
+}
+
+p
+{
+    font-size: 18px;
+}
+
+li
+{
+    font-size: 18px;
+}
+
+#banner
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    justify-content: space-around;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+
+#main
+{
+    margin-left: 30px;
+}
+
+.sections
+{
+    color: whitesmoke;
+}
+
+#Outicons
+{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+#icons
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
