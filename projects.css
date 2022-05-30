@@ -1,0 +1,43 @@
+*
+{
+    color: #FBEAEB;
+}
+
+body
+{
+    background-color: #2F3C7E;
+}
+
+p
+{
+    font-size: 18px;
+}
+
+li
+{
+    font-size: 18px;
+}
+
+#banner
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    justify-content: space-around;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+#mainProjects
+{
+    margin-left: 30px;
+}
+
+.project
+{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
